@@ -3,9 +3,9 @@ A voting system to handle your bot vote's from top.gg with MONGO DB.
 
 ### How to Use?
 <ul>
-  <li>Fork this repo (https://github.com/peterhanania/voting-system/)</li>
+  <li>Fork this repo (https://github.com/hafiz573/voting-system/)</li>
   <li>Run <i>npm install</i> To install the required modules</li>
-  <li>Head to the <a href="https://github.com/peterhanania/voting-system/blob/main/config.json">config.json</a> File and change as such:</li>
+  <li>Head to the <a href="https://github.com/hafiz573/voting-system/blob/main/config.json">config.json</a> File and change as such:</li>
 </ul>
 
 ```yaml
